@@ -32,6 +32,7 @@
     </dependencies>
 
     <build>
+        <finalName>calculadora-parking</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
